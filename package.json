@@ -2,6 +2,7 @@
   "name": "autodll-webpack-plugin-html4",
   "version": "1.0.2",
   "description": "Webpack's DllPlugin without the boilerplate, compatible with html-webpack-plugin v4.x",
+  "repository": "https://github.com/1045757307/autodll-webpack-plugin-html4.git",
   "main": "lib/index.js",
   "keywords": [
     "DllPlugin",
